@@ -25,7 +25,7 @@ const songs = [
     {
         name: 'rodrigo-3',
         displayName: 'Powerful',
-        artist: 'Rodrigos Dev',
+        artist: 'Rodrigo Dev',
     }
 ];
 
